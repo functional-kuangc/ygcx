@@ -3,7 +3,7 @@
 ```Bash
 yum -y install git 
 
-git  clone https://github.com/wenguonideshou/zsky.git
+git  clone https://github.com/istrwei/zsky.git
 
 cd zsky&&sh zsky.sh
 ```
@@ -11,7 +11,7 @@ ubuntu或debian执行
 ```Bash
 apt-get -y install git 
 
-git  clone https://github.com/wenguonideshou/zsky.git
+git  clone https://github.com/istrwei/zsky.git
 
 cd zsky&&sh ubuntuORdebian.sh
 ```
