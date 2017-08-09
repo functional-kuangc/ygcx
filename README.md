@@ -7,8 +7,14 @@ git  clone https://github.com/wenguonideshou/zsky.git
 
 cd zsky&&sh zsky.sh
 ```
+ubuntu或debian执行
+```Bash
+apt-get -y install git 
 
->此一键包只在centos7系统有效
+git  clone https://github.com/wenguonideshou/zsky.git
+
+cd zsky&&sh ubuntuORdebian.sh
+```
 
 >安装过程中会提示输入管理员用户名、密码、邮箱，输入后耐心等待即可访问 http://IP 
 
