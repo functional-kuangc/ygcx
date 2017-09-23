@@ -3,17 +3,17 @@
 ```Bash
 yum -y install git 
 
-git  clone https://github.com/istrwei/zsky.git
+git  clonehttps://github.com/xiaowuyao233/zsky1 
 
-cd zsky&&sh zsky.sh
+cd zsky1&&sh zsky.sh
 ```
 ubuntu或debian执行
 ```Bash
 apt-get -y install git 
 
-git  clone https://github.com/istrwei/zsky.git
+git  clone https://github.com/xiaowuyao233/zsky1
 
-cd zsky&&sh ubuntuORdebian.sh
+cd zsky1&&sh ubuntuORdebian.sh
 ```
 
 >安装过程中会提示输入管理员用户名、密码、邮箱，输入后耐心等待即可访问 http://IP 
